@@ -1,12 +1,11 @@
-We already installed minikube for you. Check that it is properly installed, by running the *minikube version* command:
+すでにminikubeはインストールされています。正しくインストールされているかどうか、*minikube version*コマンドを実行して確認してみましょう。
 
 `minikube version`{{execute}}
 
-OK, we can see that minikube is in place.
+minikubeがインストールされていることが確認できます。
 
-Start the cluster, by running the *minikube start* command:
+*minikube start*コマンドを実行して、クラスターを起動しましょう。
 
 `minikube start`{{execute}}
 
-Great! You now have a running Kubernetes cluster in your online terminal. Minikube started a virtual machine for you, and a Kubernetes cluster is now running in that VM.
-
+素晴らしい！これで、オンラインターミナル上に実行中のKubernetesクラスターが作られました。Minikubeは仮想マシンを起動して、その仮想マシンの中でKubernetesクラスターを実行しています。

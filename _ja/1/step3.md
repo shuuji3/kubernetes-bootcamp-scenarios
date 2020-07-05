@@ -1,5 +1,7 @@
 Let’s view the cluster details. We’ll do that by running *kubectl cluster-info*:
 
+クラスターの詳細を確認しましょう。*kubectl cluster-info*
+
 `kubectl cluster-info`{{execute}}
 
 During this tutorial, we’ll be focusing on the command line for deploying and exploring our application.
