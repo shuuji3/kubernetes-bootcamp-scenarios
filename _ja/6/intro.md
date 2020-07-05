@@ -1,4 +1,5 @@
 # The goal of this scenario is to update a deployed application with kubectl set image and to rollback with the rollout undo command. #
+# このシナリオの目的は、kubectl set imageコマンドを使用してデプロイされたアプリケーションを更新することと、rollout undoコマンドでロールバックを行うことです。 #
 
-The online terminal is a pre-configured Linux environment that can be used as a regular console (you can type commands). 
-Clicking on the `blocks of code` followed by the ENTER sign will execute that command in the terminal.
+オンラインターミナルは、普通のコンソールと同じように使える設定済みのLinux環境です(コマンドが入力できます)。改行記号が最後に付いた`コードブロック`をクリックすると、ターミナル内でコマンドを実行できます。
+.

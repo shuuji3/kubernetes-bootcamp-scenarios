@@ -1,4 +1,3 @@
-# The goal of this scenario is to help you deploy your first app on Kubernetes using kubectl. You will learn the basics about kubectl cli and how to interact with your application. #
+# このシナリオの目的は、kubectlを使ってあなたが最初のアプリをKubernetes上にデプロイするのを助けることです。kubectl CLIの基本と、アプリケーションとやりとりする方法について学びます。 #
 
-The online terminal is a pre-configured Linux environment that can be used as a regular console (you can type commands). 
-Clicking on the `blocks of code` followed by the ENTER sign will execute that command in the terminal.
+オンラインターミナルは、普通のコンソールと同じように使える設定済みのLinux環境です(コマンドが入力できます)。改行記号が最後に付いた`コードブロック`をクリックすると、ターミナル内でコマンドを実行できます。
