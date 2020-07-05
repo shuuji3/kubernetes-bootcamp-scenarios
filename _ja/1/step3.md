@@ -1,13 +1,11 @@
 Let’s view the cluster details. We’ll do that by running *kubectl cluster-info*:
 
-クラスターの詳細を確認しましょう。*kubectl cluster-info*
+クラスターの詳細を確認するために、*kubectl cluster-info*を実行しましょう。
 
 `kubectl cluster-info`{{execute}}
 
-During this tutorial, we’ll be focusing on the command line for deploying and exploring our application.
-To view the nodes in the cluster, run the *kubectl get nodes* command:
+このチュートリアルでは、アプリケーションのデプロイと調査のためのコマンドラインに焦点を当てます。クラスター内のノードを表示するために、*kubectl get nodes*コマンドを実行しましょう。
 
 `kubectl get nodes`{{execute}}
 
-This command shows all nodes that can be used to host our applications. Now we have only one node, and we can see that its status is ready (it is ready to accept applications for deployment). 
-
+このコマンドは、アプリケーションをホストするのに使用できるすべてのノードを表示します。今は1つのノードだけがあり、そのステータスがready(アプリケーションをデプロイする準備ができている)の状態になっていることがわかります。
