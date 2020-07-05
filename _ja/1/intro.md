@@ -1,7 +1,5 @@
-# The goal of this interactive scenario is to deploy a local development Kubernetes cluster using minikube #
+# この対話型シナリオの目的は、ローカルの開発用Kubernetesクラスターをminikubeを使ってデプロイすることです #
 
-The online terminal is a pre-configured Linux environment that can be used as a regular console (you can type commands). 
-Clicking on the `blocks of code` followed by the ENTER sign will execute that command in the terminal.
-
+オンラインターミナルは、普通のコンソールと同じように使える設定済みのLinux環境です(コマンドが入力できます)。改行記号が最後に付いた`コードブロック`をクリックすると、ターミナル内でコマンドを実行できます。
 
 

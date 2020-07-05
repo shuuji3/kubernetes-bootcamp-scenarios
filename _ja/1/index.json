@@ -1,7 +1,7 @@
 {
 	"pathwayTitle": "Kubernetes Bootcamp",
-	"title": "Module 1 - Create a Kubernetes cluster",
-	"description": "Create a Kubernetes cluster",
+	"title": "モジュール1 - Kubernetesクラスターを作成する",
+	"description": "Kubernetesクラスターを作成する",
 	"backend": {
 		"port": 30000,
 		"imageid": "minikube"
@@ -13,13 +13,13 @@
 	},
 	"details": {
 		"steps": [{
-			"title": "Cluster up and running",
+			"title": "クラスターの起動",
 			"text": "step1.md"
 		}, {
-			"title": "Cluster version",
+			"title": "クラスターのバージョン",
 			"text": "step2.md"
 		}, {
-			"title": "Cluster details",
+			"title": "クラスターの詳細",
 			"text": "step3.md"
 		}],
 		"intro": {
